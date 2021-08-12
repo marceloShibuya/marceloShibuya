@@ -1,4 +1,10 @@
-### Olá, meu nome é Marcelo Shibuya 🤘
+### Marcelo Shibuya 🤘
+
+- 🎓 Graduação em Banco de Dados (em andamento)
+- 📚 Estudando Python para Data Science, SQL, Hadoop e Power BI
+
+
+
 
 <!--
 **marceloShibuya/marceloShibuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python, SQL, Hadoop
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
