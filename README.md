@@ -1,6 +1,6 @@
 ### Marcelo Shibuya 🤘
 ##
-- 🎓 Graduação em Banco de Dados (em andamento)
+- 🎓 Graduação em Banco de Dados
 - 📚 Estudando Python para Data Science, SQL, Hadoop e Power BI
   <br><br>
   <div>
