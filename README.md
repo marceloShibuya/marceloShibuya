@@ -1,7 +1,10 @@
 ### Marcelo Shibuya 🤘
 ##
-- 🎓 Graduação em Banco de Dados
-- 📚 Estudando Python para Data Science, SQL, Hadoop e Power BI
+- 🎓 Degree in Database Administration
+- 🔭 I’m currently working as a BI Analyst
+- 🌱 I’m currently learning Python and Git
+<!-- - 📚 Estudando Python para Data Science, SQL, Hadoop e Power BI -->
+
   <br><br>
   <div>
     <a href="https://github.com/marceloShibuya">
@@ -12,6 +15,8 @@
   <div style="display: inline_block"><br>
     <img align="center" alt="Marcelo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
     <img align="center" alt="Marcelo-SqlServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" >
+    <img align="center" alt="Marcelo-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" >
+    <!--
     <img align="center" alt="Marcelo-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" >
     <img align="center" alt="Marcelo-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" >
     <img align="center" alt="Marcelo-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" >
@@ -20,6 +25,7 @@
     <img align="center" alt="Marcelo-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" >
     <img align="center" alt="Marcelo-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" >
     <img align="center" alt="Marcelo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" >
+    -->
   </div>  
  
 ##
